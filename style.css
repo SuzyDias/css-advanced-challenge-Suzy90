@@ -18,7 +18,7 @@
 
 .flex-item2 {
     background-color: yellow;
-    flex: 0 3 150px;
+    flex: 0 30 150px;
     height: 150px;
     text-align: center;
     line-height: 100px;
@@ -27,7 +27,7 @@
 
 .flex-item3 {
     background-color: blue;
-    flex: 1 150px;
+    flex: 5 150px;
     height: 150px;
     text-align: center;
     line-height: 100px;
@@ -54,7 +54,7 @@
 
 .flex-item7 {
     background-color: black;
-    flex: 1 150px;
+    flex: 0 30 150px;
     height: 150px;
     text-align: center;
     line-height: 100px;
@@ -108,8 +108,7 @@
 
 .flex-item16 {
     background-color: blue;
-    flex: 1 150px;
-    height: 150px;
+    flex: 0 20 150px;
     text-align: center;
     line-height: 100px;
     margin: 2px;
@@ -117,7 +116,7 @@
 
 .flex-item18 {
     background-color: yellow;
-    flex: 1 150px;
+    flex: 0 30 150px;
     height: 150px;
     text-align: center;
     line-height: 100px;
@@ -126,7 +125,7 @@
 
 .flex-item19 {
     background-color: black;
-    flex: 0 10 150px;
+    flex: 0 30 150px;
     height: 150px;
     text-align: center;
     line-height: 100px;
@@ -136,7 +135,6 @@
 .flex-item20 {
     background-color: yellow;
     flex: 1 150px;
-    height: 150px;
     text-align: center;
     line-height: 100px;
     margin: 2px;
@@ -153,7 +151,7 @@
 
 .flex-item22 {
     background-color: black;
-    flex: 1 150px;
+    flex: 10 150px;
     height: 150px;
     text-align: center;
     line-height: 100px;
@@ -172,7 +170,7 @@
 
 .flex-item24 {
     background-color: red;
-    flex: 1 150px;
+    flex: 0 15 150px;
     height: 150px;
     text-align: center;
     line-height: 100px;
