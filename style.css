@@ -1,0 +1,142 @@
+.flex-container {
+    display: flex;
+    background-color: #000;
+    margin: 5px;
+    flex-wrap: wrap;
+}
+
+.flex-item {
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+    background-color: #fff;
+}
+
+.flex-item2 {
+    background-color: yellow;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item3 {
+    background-color: blue;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item5 {
+    background-color: red;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item6 {
+    background-color: red;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item7 {
+    background-color: black;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item9 {
+    background-color: yellow;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item13{
+    background-color: blue;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item11{
+    background-color: yellow;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item10 {
+    background-color: blue;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item14 {
+    background-color: red;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item16 {
+    background-color: blue;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item18 {
+    background-color: yellow;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item19 {
+    background-color: black;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
+.flex-item20 {
+    background-color: yellow;
+    flex: 1 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 100px;
+    margin: 2px;
+}
+
